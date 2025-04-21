@@ -1,2 +1,30 @@
 # UE5_Plugins_GamepadLight
-Simple UI Navigation for Gamepad and Keyboard【适配Xbox手柄和键盘的简易UI导航】
+=Simple UI Navigation for Gamepad and Keyboard【适配Xbox手柄和键盘的简易UI导航】
+
+无需过多更改UI和其他设置，简易的配置，自定义的键位触发
+
+让手柄和键盘都可以快速使用上控件UI的流畅导航
+
+
+
+怎么说呢写的和广告词一样，不过确实也是，介绍就是这样。研究了两天的结果，具体的效果视频里都有说，目前只能用Xbox手柄，因为ps手柄虚幻里没有支持的键位，之后研究（买ps手柄）了再搞。
+
+
+
+下载链接：
+
+GitHub
+
+https://github.com/kirito0000001/UE5_Plugins_GamepadLight
+
+百度网盘
+
+https://pan.baidu.com/s/1XRsfSaqmCCgmr1KsFHQfdA?pwd=2333
+
+交流群群号发评论区避免限流
+
+
+
+做这个是因为，玩gal的很多人都习惯用手柄，也可以躺床上玩（，然后我还特别喜欢苍翼的那种UI操控，很顺手，就买了个手柄，然后研究研究，尽力以后让更多人能容易的把UI导航这一块用上，提升游玩的体验。
+
+这也是我第一次用C++做插件，大部分都是自己边红温边写的，也求助了大佬（UP主﻿@梦月_DreamMoon﻿ ）的帮忙，写成的感觉还是挺开心的。
