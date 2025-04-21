@@ -17,3 +17,21 @@ _交流群群号:466585194_
 这也是我第一次用C++做插件，大部分都是自己边红温边写的，也求助了大佬（UP主﻿@梦月_DreamMoon﻿ ）的帮忙，写成的感觉还是挺开心的。
 
 ---------------------------------------------------------------------------------------------
+Simple Configuration with Minimal UI Changes​​
+Easy setup with customizable key bindings, enabling both controllers and keyboards to achieve smooth UI navigation
+
+Note: PS controller support isn't implemented yet (since I don't own one). Unreal Engine natively only supports Xbox controllers.
+
+​​Tutorial available on Bilibili:​​
+___【虚幻5】适配手柄和键盘的UI/控件导航【轻量插件】（使用介绍，制作教程）___
+(Includes usage guide and creation tutorial)
+
+The code is well-commented with detailed function explanations and Chinese annotations. You should be able to understand it directly, but combining it with the video tutorial will help you create your own version easily.
+
+​​Discussion Group:​​ 466585194
+
+It does sound a bit like an advertisement, but that's essentially what it is—a straightforward introduction. This is the result of two days of research. Currently, only Xbox controllers are supported due to Unreal's lack of native PS controller mappings. I'll look into it (after buying a PS controller) later.
+
+The motivation behind this project stems from many visual novel (gal) players preferring controllers—especially for relaxed, bed-friendly gameplay. I personally love the intuitive UI navigation in BlazBlue, so I bought a controller and started experimenting. My goal is to make UI navigation more accessible, improving the overall player experience.
+
+This is also my first time creating a C++ plugin. Most of it was written through sheer determination (and occasional frustration), with invaluable help from @梦月_DreamMoon. Finishing it was genuinely rewarding.
