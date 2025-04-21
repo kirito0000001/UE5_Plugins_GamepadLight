@@ -2,7 +2,7 @@
 Simple UI Navigation for Gamepad and Keyboard【适配Xbox手柄和键盘的简易UI导航】
 =
 
-_无需过多更改UI和其他设置，简易的配置，自定义的键位触发_
+_无需过多更改UI和其他设置，简易的配置，自定义的键位触发_/
 _让手柄和键盘都可以快速使用上控件UI的流畅导航_
 
 
